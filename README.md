@@ -1,1 +1,2 @@
-# code-katas
+# My collection of code katas
+
